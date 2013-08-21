@@ -1,0 +1,46 @@
+html { 
+    font-family: 'PT Serif', serif;
+    font-size: 15pt;
+
+    text-decoration: none;
+    word-spacing: normal;
+
+    text-align: left;
+    letter-spacing: 0;
+
+    width: 70%;   
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+body { 
+    padding: 20px;
+    background-color: #fff;
+    margin-right: 20em;
+}
+
+
+h1, h2, h3 { 
+    font-family	: 'PT Sans Narrow', sans-serif;
+    font-weight	: 800;
+    line-height	: 1.1em;
+}
+
+h1 { font-size: 2.3em; margin-left: -2em; }
+h2 { font-size: 1.8em; color: crimson; margin-left: -2em; }
+h3 { font-size: 1.5em; color: darkblue; }
+/*
+/*  font-size: 1.2em;  
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+} */
+
+.note {
+    float: right;
+    margin-right: -15em;
+    width: 13em;
+    font-size: 0.7em;
+    line-height: 1.2em;
+    text-indent: 0;
+}
