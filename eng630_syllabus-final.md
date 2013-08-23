@@ -8,7 +8,7 @@
 
 # eng630&mdash;"Digital Humanities": Emerging Debates in Literary Study
 
-Chris Forster [cforster@syr.edu](mailto:cforster@syr.edu)
+Chris Forster <cforster@syr.edu>
 
 This syllabus is also available in:
 
